@@ -80,6 +80,7 @@ const rentalz = () => {
           <a
             href="https://github.com/BejaminTruong/RentalZ-Hybrid-"
             target="_blank"
+            rel="noreferrer"
           >
             <button className="px-8 py-2 mt-4">Code</button>
           </a>

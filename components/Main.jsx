@@ -23,17 +23,26 @@ const Main = () => {
             <a
               href="https://www.linkedin.com/in/thaibinhgw190121/"
               target="_blank"
+              rel="noreferrer"
             >
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaLinkedinIn />
               </div>
             </a>
-            <a href="https://github.com/BejaminTruong" target="_blank">
+            <a
+              href="https://github.com/BejaminTruong"
+              target="_blank"
+              rel="noreferrer"
+            >
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <FaGithub />
               </div>
             </a>
-            <a href="mailto:thaibinh291201@gmail.com" target="_blank">
+            <a
+              href="mailto:thaibinh291201@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+            >
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <AiOutlineMail />
               </div>
@@ -41,6 +50,7 @@ const Main = () => {
             <a
               href="https://www.facebook.com/BenjaminTruong2912/"
               target="_blank"
+              rel="noreferrer"
             >
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                 <AiFillFacebook />

@@ -32,10 +32,18 @@ const toystore = () => {
             enter product name, description, price and they can also upload
             product image. User can also Edit or Delete a product.
           </p>
-          <a href="https://toy-store-99bb5.firebaseapp.com/" target="_blank">
+          <a
+            href="https://toy-store-99bb5.firebaseapp.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4 mr-8">Demo</button>
           </a>
-          <a href="https://github.com/BejaminTruong/toystore" target="_blank">
+          <a
+            href="https://github.com/BejaminTruong/toystore"
+            target="_blank"
+            rel="noreferrer"
+          >
             <button className="px-8 py-2 mt-4">Code</button>
           </a>
         </div>
