@@ -104,8 +104,8 @@ const rentalz = () => {
       </div>
       <div className="grid place-items-center mb-2">
         <Slide easing="ease" className="all-slide">
-          {sliderImg.map((i) => (
-            <div className="each-slide">
+          {sliderImg.map((i, index) => (
+            <div className="each-slide" key={index}>
               <div
                 style={{
                   backgroundImage: `url(${i.src})`,
