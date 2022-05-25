@@ -9,7 +9,7 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            // I am currently still a student of University of Greenwich
+            I am currently still a student of University of Greenwich
           </p>
           <p className="py-2 text-gray-600">
             I have been studying programming at University for about 3 years.
