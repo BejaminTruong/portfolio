@@ -1,70 +1,84 @@
 import Image from "next/image";
 import React from "react";
-
+import htmlImg from '../public/assets/skills/html.png'
+import cssImg from '../public/assets/skills/css.png'
+import javascriptImg from '../public/assets/skills/javascript.png'
+import reactjsImg from '../public/assets/skills/react.png'
+import tailwindImg from '../public/assets/skills/tailwind.png'
+import firebaseImg from '../public/assets/skills/firebase.png'
+import githubImg from '../public/assets/skills/github.png'
+import nextjsImg from '../public/assets/skills/nextjs.png'
+import nodejsImg from '../public/assets/skills/nodejs.png'
+import chakrauiImg from '../public/assets/skills/chakra-ui.png'
+import materialuiImg from '../public/assets/skills/material-ui.png'
+import antdesignImg from '../public/assets/skills/ant-design.png'
+import bootstrapImg from '../public/assets/skills/bootstrap.png'
+import mongodbImg from '../public/assets/skills/mongodb.png'
+import mysqlImg from '../public/assets/skills/mysql.png'
 const skillArr = [
   {
     name: "HTML",
-    imageURL: "/../public/assets/skills/html.png",
+    imageURL: htmlImg,
   },
   {
     name: "CSS",
-    imageURL: "/../public/assets/skills/css.png",
+    imageURL: cssImg,
   },
   {
     name: "JavaScript",
-    imageURL: "/../public/assets/skills/javascript.png",
+    imageURL: javascriptImg,
   },
   {
     name: "ReactJS",
-    imageURL: "/../public/assets/skills/react.png",
+    imageURL: reactjsImg,
   },
   {
     name: "Tailwind CSS",
-    imageURL: "/../public/assets/skills/tailwind.png",
+    imageURL: tailwindImg,
   },
   {
     name: "Firebase",
-    imageURL: "/../public/assets/skills/firebase.png",
+    imageURL: firebaseImg,
   },
   {
     name: "Github",
-    imageURL: "/../public/assets/skills/github.png",
+    imageURL: githubImg,
   },
   {
     name: "NextJS",
-    imageURL: "/../public/assets/skills/nextjs.png",
+    imageURL: nextjsImg,
   },
   {
     name: "NodeJS",
-    imageURL: "/../public/assets/skills/nodejs.png",
+    imageURL: nodejsImg,
   },
   {
     name: "Chakra UI",
-    imageURL: "/../public/assets/skills/chakra-ui.png",
+    imageURL: chakrauiImg,
   },
   {
     name: "Material UI",
-    imageURL: "/../public/assets/skills/material-ui.png",
+    imageURL: materialuiImg,
   },
   {
     name: "Ant Design",
-    imageURL: "/../public/assets/skills/ant-design.png",
+    imageURL: antdesignImg,
   },
   {
     name: "Bootstrap",
-    imageURL: "/../public/assets/skills/bootstrap.png",
+    imageURL: bootstrapImg,
   },
   {
     name: "MongoDB",
-    imageURL: "/../public/assets/skills/mongodb.png",
+    imageURL: mongodbImg,
   },
   {
     name: "MySQL",
-    imageURL: "/../public/assets/skills/mysql.png",
+    imageURL: mysqlImg,
   },
   {
     name: "React Native",
-    imageURL: "/../public/assets/skills/react.png",
+    imageURL: reactjsImg,
   },
 ];
 
