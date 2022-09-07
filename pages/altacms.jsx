@@ -32,7 +32,7 @@ const altacms = () => {
             Redux and is hosted on Vercel. This is the project that I had
             finished during my 3 months intership as an Intern Frontend
             Developer at{" "}
-            <a href="https://altamedia.vn/?lang=en" target="_blank">
+            <a href="https://altamedia.vn/?lang=en" target="_blank" rel="noreferrer">
               Alta Media@
             </a>
             . This is an CMS app where you can login using Facebook account,
