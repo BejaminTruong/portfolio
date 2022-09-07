@@ -5,7 +5,7 @@ import ProjectItem from "./ProjectItem";
 import moviewebsiteImg from "../public/assets/projects/MovieWebsiteImg.png";
 import toystore from "../public/assets/projects/toystore.jpeg";
 import altaCMS from '../public/assets/projects/Alta-CMS.png';
-import porfolioImg from '../public/assets/projects/porfoliowebsite.png';
+import portfolioImg from '../public/assets/projects/portfoliowebsite.png';
 const Projects = () => {
   return (
     <div id="projects" className="w-full">
@@ -46,10 +46,10 @@ const Projects = () => {
             projectUrl="/altacms"
           />
           <ProjectItem
-            title="Porfolio"
+            title="Portfolio"
             tech="NextJS"
-            backgroundImg={porfolioImg}
-            projectUrl="/porfolio"
+            backgroundImg={portfolioImg}
+            projectUrl="/portfolio"
           />
         </div>
       </div>

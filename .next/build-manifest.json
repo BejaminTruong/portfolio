@@ -30,15 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/moviewebsite": [
+    "/portfolio": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/moviewebsite.js"
-    ],
-    "/porfolio": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/porfolio.js"
+      "static/chunks/pages/portfolio.js"
     ]
   },
   "ampFirstPages": []
