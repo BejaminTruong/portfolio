@@ -15,6 +15,7 @@ import antdesignImg from '../public/assets/skills/ant-design.png'
 import bootstrapImg from '../public/assets/skills/bootstrap.png'
 import mongodbImg from '../public/assets/skills/mongodb.png'
 import mysqlImg from '../public/assets/skills/mysql.png'
+import typescriptImg from '../public/assets/skills/typescript.png'
 const skillArr = [
   {
     name: "HTML",
@@ -79,6 +80,10 @@ const skillArr = [
   {
     name: "React Native",
     imageURL: reactjsImg,
+  },
+  {
+    name: "Typescript",
+    imageURL: typescriptImg,
   },
 ];
 

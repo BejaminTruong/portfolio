@@ -2,8 +2,10 @@ import React from "react";
 import todoappImg from "../public/assets/projects/todoapp.jpeg";
 import rentalzImg from "../public/assets/projects/RentalZ.png";
 import ProjectItem from "./ProjectItem";
-import moviewebsiteImg from "../public/assets/projects/FE44-Movie-Website.jpg";
+import moviewebsiteImg from "../public/assets/projects/MovieWebsiteImg.png";
 import toystore from "../public/assets/projects/toystore.jpeg";
+import altaCMS from '../public/assets/projects/Alta-CMS.png';
+import porfolioImg from '../public/assets/projects/porfoliowebsite.png';
 const Projects = () => {
   return (
     <div id="projects" className="w-full">
@@ -36,6 +38,18 @@ const Projects = () => {
             tech="React Native"
             backgroundImg={rentalzImg}
             projectUrl="/rentalz"
+          />
+          <ProjectItem
+            title="Alta CMS"
+            tech="ReactJS"
+            backgroundImg={altaCMS}
+            projectUrl="/altacms"
+          />
+          <ProjectItem
+            title="Porfolio"
+            tech="NextJS"
+            backgroundImg={porfolioImg}
+            projectUrl="/porfolio"
           />
         </div>
       </div>

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import moviewebsiteImg from "../public/assets/projects/FE44-Movie-Website.jpg";
+import moviewebsiteImg from "../public/assets/projects/MovieWebsiteImg.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 

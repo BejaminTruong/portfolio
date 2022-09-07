@@ -29,6 +29,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+    ],
+    "/moviewebsite": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/moviewebsite.js"
+    ],
+    "/porfolio": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/porfolio.js"
     ]
   },
   "ampFirstPages": []
